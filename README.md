@@ -1,2 +1,2 @@
-test version of aedge docker image
+test version of shibgreen docker image
 
